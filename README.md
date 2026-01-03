@@ -50,10 +50,3 @@
 
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VtLorran&show_icons=true&theme=dracula" alt="VtLorran stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtLorran&layout=compact&theme=dracula" alt="Top langs" height="160" />
-</p>
