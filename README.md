@@ -33,8 +33,8 @@ Sou um desenvolvedor em constante evolução, focado em criar experiências digi
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VtLorran&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de VtLorran" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtLorran&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas por VtLorran" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VtLorran&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&v=1" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtLorran&layout=compact&langs_count=7&theme=transparent&v=1" alt="Linguagens mais usadas" />
 </div>
 ---
 
